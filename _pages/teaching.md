@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-I am committed to developing evidence-based, interactive teaching materials in infectious disease modelling and vaccinology. I am currently applying for the Associate Teaching Fellowship programme (Advance HE) to further develop my teaching practice and academic leadership in higher education.
+I am committed to developing evidence-based, interactive teaching materials in infectious disease modelling and vaccinology. 
 
 
 ### Courses & Lectures
