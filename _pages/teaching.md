@@ -5,11 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
-
-I am committed to developing evidence-based, interactive teaching materials in infectious disease modelling and vaccinology. 
-
-
 ### Courses & Lectures
 
 **Climate Change and Vaccines** — Vaccinology Short Course, Nagasaki University (2024-2025)
