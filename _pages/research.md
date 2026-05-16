@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Themes
 
-## Chikungunya
+## Research Themes
+
+
+### Chikungunya
 
 ![그림 설명](../images/research_framework.png)
 
@@ -25,15 +27,15 @@ The aim is to generate useful evidence to inform chikungunya vaccination strateg
 
 (5) Benefit-risk modelling of the live-attenuataed chikungunya vaccine for travel vaccination and outbreak response immunisation
 
-## Climate-Sensitive Arboviral Diseases
+### Climate-Sensitive Arboviral Diseases
 
 I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
 
-## Leshimaniasis
+### Leshimaniasis
 
 Out team works on health impact and cost-effectiveness of leishmania vaccination in the target countries: mathematical modelling and early-stage economic evaluation.
 
-## Epidemic preparedness through vaccine impact modelling
+### Epidemic preparedness through vaccine impact modelling
 
 Our team will develop a modelling framework to generate evidence for vaccine decision-making across the accelerated approval lifecycle of sporadic arboviral diseases, using chikungunya as the primary case study and Oropouche as a transferable secondary application.
 
