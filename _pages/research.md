@@ -37,6 +37,8 @@ Out team works on health impact and cost-effectiveness of leishmania vaccination
 
 ### Epidemic preparedness through vaccine impact modelling
 
+![그림 설명](../images/future_research.png)
+
 Our team will develop a modelling framework to generate evidence for vaccine decision-making across the accelerated approval lifecycle of sporadic arboviral diseases, using chikungunya as the primary case study and Oropouche as a transferable secondary application.
 
 We aim to address key evidence gaps that arise when vaccines receive accelerated approval for diseases with explosive but irregular outbreak patterns. Our work will focus on three core objectives:
