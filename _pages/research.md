@@ -9,6 +9,10 @@ author_profile: true
 ## Research Themes
 
 
+### Climate-Sensitive Arboviral Diseases
+
+I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
+
 ### Chikungunya
 
 ![그림 설명](../images/research_framework.png)
@@ -21,17 +25,13 @@ Key objectives include:
 
 (1) Developing a mathematical model fitted to age-stratified chikungunya seroprevalence data
 
-(2) Estimating the disease burden for chikungunya at the global, regional, and national levels through a systematic review and statistical modelling
+(2) Estimating the disease burden for chikungunya at the global, regional, and national levels through spatial prediction using machine learning models
 
 (3) Conducting a qualitative assessment of stakeholders' perceptions of the risk of chikungunya outbreaks and feasibility of chikungunya vaccination
 
 (4) Modelling impact of age-stratified outbreak response immunisation strategies
 
 (5) Benefit-risk modelling of the live-attenuataed chikungunya vaccine for travel vaccination and outbreak response immunisation
-
-### Climate-Sensitive Arboviral Diseases
-
-I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
 
 ### Leshimaniasis
 
