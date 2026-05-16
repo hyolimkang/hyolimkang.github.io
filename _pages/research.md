@@ -13,17 +13,15 @@ My research on chikungunya spans the full pipeline from burden estimation to vac
 
 The aim is to generate useful evidence to inform chikungunya vaccination strategies through analysis of stakeholders' perceptions, estimation of chikungunya seroprevalence and burden, and modelling the health impact of vaccination. Key objectives include:
 
-(1) Estimating the disease burden for chikungunya at the global, regional, and national levels through a systematic review and statistical modelling.
+(1) Developing a mathematical model fitted to age-stratified chikungunya seroprevalence data
 
-(2) Developing a mathematical model fitted to age-stratified chikungunya seroprevalence data.
+(2) Estimating the disease burden for chikungunya at the global, regional, and national levels through a systematic review and statistical modelling
 
-(3) Conducting a qualitative assessment of stakeholders' perceptions of the risk of chikungunya outbreaks and feasibility of chikungunya vaccination.
+(3) Conducting a qualitative assessment of stakeholders' perceptions of the risk of chikungunya outbreaks and feasibility of chikungunya vaccination
 
-(4) Conducting a qualitative assessment of health, economic, and social benefits of chikungunya vaccination and their distribution at the individual, household, and societal levels.
+(4) Modelling impact of age-stratified outbreak response immunisation strategies
 
-(5) Engaging stakeholders at global, regional, and national levels.
-
-(6) Benefit-risk modelling of the live-attenuataed chikungunya vaccine for travel vaccination and outbreak response immunisation
+(5) Benefit-risk modelling of the live-attenuataed chikungunya vaccine for travel vaccination and outbreak response immunisation
 
 ## Climate-Sensitive Arboviral Diseases
 
