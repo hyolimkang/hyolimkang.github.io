@@ -13,9 +13,11 @@ author_profile: true
 
 ![그림 설명](../images/research_framework.png)
 
-My research on chikungunya spans the full pipeline from burden estimation to vaccine impact modelling — including force of infection estimation, global burden quantification, spatial risk mapping, and age-specific vaccination strategy evaluation — with a focus on generating policy-relevant evidence through stakeholder engagement.
+My research on chikungunya spans burden estimation, spatial risk mapping, vaccination strategy modelling, and stakeholder engagement, with a focus on generating policy-relevant evidence to inform vaccine introduction decisions.
 
-The aim is to generate useful evidence to inform chikungunya vaccination strategies through analysis of stakeholders' perceptions, estimation of chikungunya seroprevalence and burden, and modelling the health impact of vaccination. Key objectives include:
+The aim is to generate useful evidence to inform chikungunya vaccination strategies through analysis of stakeholders' perceptions, estimation of chikungunya seroprevalence and burden, and modelling the health impact of vaccination. 
+
+Key objectives include:
 
 (1) Developing a mathematical model fitted to age-stratified chikungunya seroprevalence data
 
