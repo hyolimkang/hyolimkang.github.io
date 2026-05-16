@@ -5,13 +5,9 @@ permalink: /team/
 author_profile: true
 ---
 
-## Principal Investigator
-
-**Hyolim Kang** — Assistant Professor, Department of Infectious Disease Epidemiology and Dynamics, Institute of Tropical Medicine, Nagasaki University
-
 ## Team Members
 
-**Daisuke Ikeno**
+Daisuke Ikeno
 
 ## Join Us
 
