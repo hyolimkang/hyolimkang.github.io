@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Themes
+# Research Themes
 
-### Chikungunya
+## Chikungunya
 
 ![그림 설명](../images/research_framework.png)
 
