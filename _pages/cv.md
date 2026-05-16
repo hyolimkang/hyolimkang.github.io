@@ -53,10 +53,9 @@ Ethiopia Women's Empowerment and Development Project, Holeta, Ejere, Ethiopia
 ## Professional Service
 
 - Member, Chikungunya Expert Working Group, Gavi, the Vaccine Alliance
-- Member, WHO SAGE Working Group on Chikungunya
 - Affiliate, Vaccine Impact Modelling Consortium
 - Member, Vaccine Centre, LSHTM
-- Peer reviewer: *The Lancet Infectious Diseases*, *Vaccine*, *BMJ Global Health*, *eClinicalMedicine*
+- Peer reviewed: *The Lancet Infectious Diseases*, *Vaccine*, *BMJ Global Health*, *eClinicalMedicine*
 
 ---
 
