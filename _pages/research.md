@@ -29,6 +29,18 @@ The aim is to generate useful evidence to inform chikungunya vaccination strateg
 
 I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
 
-## Epidemic & Pandemic Preparedness
+## Leshimaniasis
 
-I use mathematical modelling and spatial mapping to quantify disease burden, evaluate vaccine strategies, and forecast transmission dynamics — with the goal of strengthening epidemic and pandemic preparedness.
+Out team works on health impact and cost-effectiveness of leishmania vaccination in the target countries: mathematical modelling and early-stage economic evaluation.
+
+## Epidemic preparedness through vaccine impact modelling
+
+Our team will develop a modelling framework to generate evidence for vaccine decision-making across the accelerated approval lifecycle of sporadic arboviral diseases, using chikungunya as the primary case study and Oropouche as a transferable secondary application.
+
+We aim to address key evidence gaps that arise when vaccines receive accelerated approval for diseases with explosive but irregular outbreak patterns. Our work will focus on three core objectives:
+
+(1) Reconstructing age-structured transmission and susceptibility dynamics to predict outbreak timing, size, and geography using a Bayesian age-structured state space SEIR model fitted to multi-year surveillance data
+
+(2) Comparing long-term vaccination strategies under uncertainty in vaccine protection, waning immunity, boosting, and age- and geography-specific risk
+
+(3) Designing post-licensure evidence systems by simulating surveillance and vaccine effectiveness study designs tailored to sporadic outbreak settings
