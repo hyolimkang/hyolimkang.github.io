@@ -1,64 +1,79 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**PhD in Epidemiology and Population Health** (2026)
+London School of Hygiene & Tropical Medicine, London, UK
+*Thesis: Stakeholder engagement and mathematical modelling to inform chikungunya vaccination programmes in endemic and epidemic settings*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**MSc in Health Policy, Planning and Financing** (2019)
+London School of Hygiene & Tropical Medicine, London, UK
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**BA in Economics** (2017)
+Sogang University, Seoul, South Korea
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Positions
+
+**Assistant Professor of Infectious Disease Modelling** (Mar 2026 –)
+Department of Infectious Disease Epidemiology and Dynamics, Institute of Tropical Medicine, Nagasaki University, Japan
+
+**Research Fellow of Infectious Disease Modelling** (Apr 2024 – Feb 2026)
+Department of Infectious Disease Epidemiology and Dynamics, Institute of Tropical Medicine, Nagasaki University, Japan
+
+**Researcher in College of Medicine** (Oct 2022 – Mar 2024)
+Seoul National University, Seoul, South Korea
+
+**Research Assistant, Policy and Economics Department** (Apr 2021 – Sep 2022)
+International Vaccine Institute, Seoul, South Korea
+
+**Health Policy Researcher** (Jun 2019 – Mar 2020)
+Korea Institute for Health and Social Affairs (KIHASA), Sejong, South Korea
+
+**Field Research Fellow** (Apr 2017 – Mar 2018)
+Ethiopia Women's Empowerment and Development Project, Holeta, Ejere, Ethiopia
+
+---
+
+## Teaching & Capacity Building
+
+- Scientific and Organising Committee Member, Vaccinology Short Course and Symposium, Nagasaki University (2025)
+- Faculty, Vaccinology Course, Nagasaki University (2024–2025)
+- Faculty, Infectious Disease Epidemiology and Modelling Course, Nagasaki University (2024)
+- Supervised MSc student project: "Vaccine Impact Modelling for Controlling Chikungunya Outbreak in Karnataka, India", LSHTM (2024)
+
+---
+
+## Professional Service
+
+- Member, Chikungunya Expert Working Group, Gavi, the Vaccine Alliance
+- Member, WHO SAGE Working Group on Chikungunya
+- Affiliate, Vaccine Impact Modelling Consortium
+- Member, Vaccine Centre, LSHTM
+- Peer reviewer: *The Lancet Infectious Diseases*, *Vaccine*, *BMJ Global Health*, *eClinicalMedicine*
+
+---
+
+## Professional Memberships
+
+- Japanese Society of Tropical Medicine
+- Vaccine Impact Modelling Consortium
+
+---
+
+## Software & Code
+
+R programming · GitHub: [github.com/hyolimkang](https://github.com/hyolimkang)
+
+---
+
+## Links
+
+- ORCID: [0000-0002-0123-6387](https://orcid.org/0000-0002-0123-6387)
+- Project: [LSHTM Chikungunya](https://www.lshtm.ac.uk/research/centres-projects-groups/chikungunya)
