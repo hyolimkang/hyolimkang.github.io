@@ -1,4 +1,11 @@
 
+---
+layout: single
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
 
 ## Team Members
 
