@@ -7,13 +7,14 @@ author_profile: true
 
 ### Courses & Lectures
 
-**Climate Change and Vaccines** — Vaccinology Short Course, Nagasaki University (2024-2025)
 
-**Vaccine Impact Modelling** — Vaccinology Short Course, Nagasaki University (2024-2025)
+Climate Change and Vaccines — Vaccinology Short Course, Nagasaki University (2024-2025)
 
-**Special Lectures** — Infectious Disease Epidemiology and Modelling Short Course, Nagasaki University (2024)
+Vaccine Impact Modelling — Vaccinology Short Course, Nagasaki University (2024-2025)
 
-**Epidemiology and Statistics for Population Health** — Nagasaki University (2024)
+Special Lectures** — Infectious Disease Epidemiology and Modelling Short Course, Nagasaki University (2024)
+
+Epidemiology and Statistics for Population Health** — Nagasaki University (2024)
 
 ### Practical Sessions
 
