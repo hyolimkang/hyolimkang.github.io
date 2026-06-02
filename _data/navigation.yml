@@ -26,3 +26,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
+- title: "Vision"       
+    url: /vision/
+    
+- title: "Contact"      
+    url: /contact/
