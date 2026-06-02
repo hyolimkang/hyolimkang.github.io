@@ -8,13 +8,13 @@ author_profile: true
 
 ## Climate-Sensitive Arboviral Disease Dynamics
 
-I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
+We study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
 
 ### Chikungunya
 
 ![그림 설명](../images/research_framework.png)
 
-My research on chikungunya spans burden estimation, spatial risk mapping, vaccination strategy modelling, and stakeholder engagement, with a focus on generating policy-relevant evidence to inform vaccine introduction decisions.
+Our research on chikungunya spans burden estimation, spatial risk mapping, vaccination strategy modelling, and stakeholder engagement, with a focus on generating policy-relevant evidence to inform vaccine introduction decisions.
 
 The aim is to generate useful evidence to inform chikungunya vaccination strategies through analysis of stakeholders' perceptions, estimation of chikungunya seroprevalence and burden, and modelling the health impact of vaccination. 
 
