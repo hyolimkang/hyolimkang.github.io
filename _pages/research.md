@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 
-## Research Themes
-
-
-### Climate-Sensitive Arboviral Diseases
+## Climate-Sensitive Arboviral Disease Dynamics
 
 I study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
 
