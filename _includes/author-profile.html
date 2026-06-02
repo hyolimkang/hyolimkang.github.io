@@ -58,6 +58,9 @@
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchmap }}"><i class="ai ai-researchgate ai-fw icon-pad-right"></i>Researchmap</a></li>
+      {% endif %}
       {% endif %}                        
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
