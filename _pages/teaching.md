@@ -5,20 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Courses & Lectures
+### Courses
 
 
-Climate Change and Vaccines — Vaccinology Short Course, Nagasaki University (2024-2025)
+Vaccinology Short Course, Nagasaki University (2024-2026)
 
-Vaccine Impact Modelling — Vaccinology Short Course, Nagasaki University (2024-2025)
-
-Special Lectures — Infectious Disease Epidemiology and Modelling Short Course, Nagasaki University (2024)
+Infectious Disease Epidemiology and Modelling Short Course, Nagasaki University (2024)
 
 Epidemiology and Statistics for Population Health — Nagasaki University (2024)
 
-### Practical Sessions
-
-I led a hands-on practical session in Vaccine Impact Modelling, developing interactive materials that guide students from basic mathematical models to mechanistic models with vaccine compartments and age-structured models.
 
 ### Committees
 
