@@ -11,6 +11,8 @@ Daisuke Ikeno
 
 Tigabu Chanie Melese
 
+- My focused research areas are MCH, vaccination in fragile health systems, health policy, and global health. My long term research vision is focused in global health inequalities in conflict affected areas of the world.
+
 Prerna Ojha
 
 ## Join Us
