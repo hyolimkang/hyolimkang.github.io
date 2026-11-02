@@ -34,7 +34,7 @@ author_profile: true
 
 <div style="display: flex; align-items: flex-start; gap: 18px; margin: 16px 0 24px;">
 
-  <img src="{{ '/images/Prerna.png' | relative_url }}"
+  <img src="{{ '/images/Prerna.webp' | relative_url }}"
        alt="Prerna Ojha"
        style="width: 90px; height: 90px;
               border-radius: 50%;
@@ -44,9 +44,11 @@ author_profile: true
   <div>
     <strong>Prerna Ojha</strong>
     <p style="margin-top: 8px;">
-     Heat-related health vulnerability in Indian urban populations, translating evidence into climate adaptation policy.
+      Heat-related health vulnerability among urban populations in India and translating research evidence into climate adaptation policy.
     </p>
   </div>
+
+</div>
 
 </div>
 ## Join Us
