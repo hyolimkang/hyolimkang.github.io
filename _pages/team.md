@@ -7,8 +7,12 @@ author_profile: true
 
 ## Team Members
 
-Daisuke Ikeno
-
+  <div>
+    <strong>Daisuke Ikeno</strong>
+    <p style="margin-top: 8px;">
+     Evaluating the health impact and cost-effectiveness of leishmaniasis vaccination in Kenya through mathematical modelling.
+    </p>
+  </div>
 
 <div style="display: flex; align-items: flex-start; gap: 18px; margin: 16px 0 24px;">
 
@@ -22,7 +26,7 @@ Daisuke Ikeno
   <div>
     <strong>Tigabu Chanie Melese</strong>
     <p style="margin-top: 8px;">
-      My focused research areas are MCH, vaccination in fragile health systems, health policy, and global health. My long term research vision is focused in global health inequalities in conflict affected areas of the world.
+     How climate-sensitive infectious disease outbreaks shape vaccination policy in conflict-affected areas of Ethiopia.
     </p>
   </div>
 
