@@ -48,7 +48,6 @@ author_profile: true
     </p>
   </div>
 
-</div>
 
 </div>
 ## Join Us
