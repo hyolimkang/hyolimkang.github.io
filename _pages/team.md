@@ -7,10 +7,19 @@ author_profile: true
 
 ## Team Members
 
+<div style="display: flex; align-items: flex-start; gap: 18px; margin: 16px 0 24px;">
+
+  <img src="{{ '/images/daisuke.png' | relative_url }}"
+       alt="Daisuke Ikeno"
+       style="width: 90px; height: 90px;
+              border-radius: 50%;
+              object-fit: cover;
+              flex-shrink: 0;">
+
   <div>
     <strong>Daisuke Ikeno</strong>
     <p style="margin-top: 8px;">
-     Evaluating the health impact and cost-effectiveness of leishmaniasis vaccination in Kenya through mathematical modelling.
+     Health impact and cost-effectiveness of leishmaniasis vaccination.
     </p>
   </div>
 
