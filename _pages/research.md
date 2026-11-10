@@ -5,45 +5,48 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research Vision
 
-## Climate-Sensitive Arboviral Disease Dynamics
+**Where and when could outbreaks emerge? Who is most likely to be affected? Which interventions should be prioritised?**
 
-We study how climate change affects the transmission dynamics and geographic distribution of arboviral diseases, with a focus on identifying populations at risk and informing vaccine introduction decisions.
+My research aims to generate quantitative evidence to anticipate and respond to emerging and re-emerging infectious disease outbreaks. I focus on climate-sensitive arboviral diseases, particularly chikungunya, and combine epidemiological, serological, and clinical data with statistical inference, spatial analysis, and mathematical modelling. My long-term goal is to connect our understanding of transmission dynamics and population vulnerability with practical decisions about surveillance and prevention, especially where evidence is limited or fragmented.
 
-### Chikungunya
+<figure style="margin: 1.75rem 0 2rem; max-width: 100%;">
+  <a href="{{ '/images/research_vision_framework.svg' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research vision framework at full size">
+    <img src="{{ '/images/research_vision_framework.svg' | relative_url }}" alt="Research framework: climate and vector ecology, surveillance and serology, and population immunity and mobility inform three linked priorities: outbreak emergence and transmission, disease burden and vulnerability, and vaccination and preparedness. Integrated statistical and mathematical approaches support evidence-informed decisions." style="width: 100%; height: auto; display: block; border-radius: 8px;" loading="lazy">
+  </a>
+  <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
+    My research connects outbreak risk, population-level health impacts, and intervention decisions through an integrated quantitative framework. Click to enlarge.
+  </figcaption>
+</figure>
 
-![그림 설명](../images/research_framework.png)
+## Research Priorities
 
-Our research on chikungunya spans burden estimation, spatial risk mapping, vaccination strategy modelling, and stakeholder engagement, with a focus on generating policy-relevant evidence to inform vaccine introduction decisions.
+### 1. Outbreak emergence and transmission dynamics
 
-The aim is to generate useful evidence to inform chikungunya vaccination strategies through analysis of stakeholders' perceptions, estimation of chikungunya seroprevalence and burden, and modelling the health impact of vaccination. 
+I investigate how climate, vector suitability, pathogen introductions, human mobility, and population immunity shape the risk, timing, and geographic spread of arboviral outbreaks. By integrating surveillance and serological evidence with statistical and mechanistic models, I aim to reconstruct transmission histories, understand hidden infection dynamics, and improve outbreak detection and short-term prediction under incomplete reporting.
 
-Key objectives include:
+*Key question: Where and when is transmission likely to occur, and how reliable are those estimates?*
 
-(1) Developing a mathematical model fitted to age-stratified chikungunya seroprevalence data
+### 2. Disease burden and population vulnerability
 
-(2) Estimating the disease burden for chikungunya at the global, regional, and national levels through spatial prediction using machine learning models
+I estimate the health burden of infections that may be missed by routine surveillance, including acute illness and longer-term consequences. My work combines seroprevalence and force-of-infection estimation, spatial burden mapping, and analyses of patient-level surveillance data to examine how disease outcomes vary by age, underlying health conditions, and other dimensions of vulnerability.
 
-(3) Conducting a qualitative assessment of stakeholders' perceptions of the risk of chikungunya outbreaks and feasibility of chikungunya vaccination
+*Key question: Who bears the greatest health burden, and which differences matter for public health action?*
 
-(4) Modelling impact of age-stratified outbreak response immunisation strategies
+### 3. Vaccination and epidemic preparedness
 
-(5) Benefit-risk modelling of the live-attenuataed chikungunya vaccine for travel vaccination and outbreak response immunisation
+I use mathematical modelling to evaluate preventive and outbreak-response vaccination strategies, including approaches tailored to age, underlying health conditions, and geography. This includes assessing expected health impact, vaccine benefit–risk trade-offs, and uncertainty in transmission and protection. I also aim to identify the surveillance and post-licensure evidence needed to guide decisions as outbreaks evolve.
 
-### Leshimaniasis
+*Key question: When, where, and whom should we vaccinate, and what evidence is needed to make those decisions?*
 
-Out team works on health impact and cost-effectiveness of leishmania vaccination in the target countries: mathematical modelling and early-stage economic evaluation.
+## From Methods to Decisions
 
-### Epidemic preparedness through vaccine impact modelling
+Across these priorities, I draw on **epidemiological and serological data, statistical and Bayesian inference, mathematical modelling, spatial analysis, and machine learning**. I place particular emphasis on making assumptions transparent, assessing uncertainty, and producing results that can be interpreted and used in real-world decisions.
 
-![그림 설명](../images/future_research.png)
+**Chikungunya is my primary case study**, spanning transmission and burden estimation, vaccine impact and benefit–risk modelling, and the study of severe outcomes. I am also interested in transferring useful insights from better-surveilled diseases, such as dengue, to emerging arboviral threats without overlooking differences in pathogen biology, population immunity, and reporting. The longer-term aim is to develop approaches that can support preparedness across multiple infectious disease settings.
 
-Our team will develop a modelling framework to generate evidence for vaccine decision-making across the accelerated approval lifecycle of sporadic arboviral diseases, using chikungunya as the primary case study and Oropouche as a transferable secondary application.
+Related research includes modelling the potential health impact and cost-effectiveness of leishmaniasis vaccination.
 
-We aim to address key evidence gaps that arise when vaccines receive accelerated approval for diseases with explosive but irregular outbreak patterns. Our work will focus on three core objectives:
+[View publications]({{ '/publications/' | relative_url }}) · [Meet the research team]({{ '/team/' | relative_url }})
 
-(1) Reconstructing age-structured transmission and susceptibility dynamics to predict outbreak timing, size, and geography using a Bayesian age-structured state space SEIR model fitted to multi-year surveillance data
-
-(2) Comparing long-term vaccination strategies under uncertainty in vaccine protection, waning immunity, boosting, and age- and geography-specific risk
-
-(3) Designing post-licensure evidence systems by simulating surveillance and vaccine effectiveness study designs tailored to sporadic outbreak settings
