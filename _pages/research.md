@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Vision
-
 **Where and when could outbreaks emerge? Who is most likely to be affected? Which interventions should be prioritised?**
 
 Our research aims to generate quantitative evidence to anticipate and respond to emerging and re-emerging infectious disease outbreaks. We focus on climate-sensitive arboviral diseases, and combine epidemiological, serological, and clinical data with statistical inference, spatial analysis, and mathematical modelling.
@@ -23,7 +21,7 @@ Our research aims to generate quantitative evidence to anticipate and respond to
       loading="lazy">
   </a>
   <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
-    An integrated framework linking outbreak dynamics, disease burden, and vaccination decisions.
+    A framework linking outbreak dynamics, disease burden, and vaccination decisions.
     Click to enlarge.
   </figcaption>
 </figure>
@@ -36,7 +34,7 @@ We investigate how climate, vector suitability, and population immunity influenc
 
 ### 2. Disease burden and severity
 
-We estimate the burden of infections and their health consequences, including outcomes missed by routine surveillance. Our research combines seroepidemiological analysis, spatial burden estimation, and surveillance data to estimate global burden of disease.
+We estimate the burden of infections and their health consequences, including outcomes missed by routine surveillance. 
 
 ### 3. Vaccination and epidemic preparedness
 
