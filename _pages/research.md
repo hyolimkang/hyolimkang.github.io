@@ -11,12 +11,21 @@ author_profile: true
 
 My research aims to generate quantitative evidence to anticipate and respond to emerging and re-emerging infectious disease outbreaks. I focus on climate-sensitive arboviral diseases, particularly chikungunya, and combine epidemiological, serological, and clinical data with statistical inference, spatial analysis, and mathematical modelling. My long-term goal is to connect our understanding of transmission dynamics and population vulnerability with practical decisions about surveillance and prevention, especially where evidence is limited or fragmented.
 
+
 <figure style="margin: 1.75rem 0 2rem; max-width: 100%;">
-  <a href="{{ '/images/research_vision_framework.svg' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open the research vision framework at full size">
-    <img src="{{ '/images/research_vision_framework.svg' | relative_url }}" alt="Research framework: climate and vector ecology, surveillance and serology, and population immunity and mobility inform three linked priorities: outbreak emergence and transmission, disease burden and vulnerability, and vaccination and preparedness. Integrated statistical and mathematical approaches support evidence-informed decisions." style="width: 100%; height: auto; display: block; border-radius: 8px;" loading="lazy">
+  <a href="{{ '/images/research_vision_framework.png' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Open the research vision framework at full size">
+    <img
+      src="{{ '/images/research_vision_framework.png' | relative_url }}"
+      alt="Research framework illustrating three research priorities: outbreak dynamics, disease burden and severity, and vaccination and epidemic preparedness."
+      style="width: 100%; height: auto; display: block; border-radius: 8px;"
+      loading="lazy">
   </a>
   <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
-    My research connects outbreak risk, population-level health impacts, and intervention decisions through an integrated quantitative framework. Click to enlarge.
+    An integrated framework linking outbreak dynamics, disease burden, and vaccination decisions.
+    Click to enlarge.
   </figcaption>
 </figure>
 
