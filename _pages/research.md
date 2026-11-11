@@ -26,7 +26,7 @@ Our research aims to generate quantitative evidence to anticipate and respond to
   </figcaption>
 </figure>
 
-## Research Priorities
+## Research Themes
 
 ### 1. Outbreak emergence and transmission dynamics
 
