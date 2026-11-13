@@ -65,5 +65,3 @@ author_profile: true
 
 We welcome motivated students and researchers interested in infectious disease modelling, vaccine epidemiology, and climate-sensitive arboviral diseases. If you are interested in joining the team, please feel free to reach out at [hyolim.kang@nagasaki-u.ac.jp](mailto:hyolim.kang@nagasaki-u.ac.jp).
 
-We meet monthly on the fourth Monday, 5:00–6:00 p.m. Japan time; you are welcome to [join](mailto:hyolim.kang@nagasaki-u.ac.jp) our discussions and presentations.
-
