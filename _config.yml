@@ -23,7 +23,7 @@ repository               : "hyolimkang/hyolimkang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hyolimkang_photo.jpg"
   name             : "Hyolim Kang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Nagasaki University Department of Infectious Disease Epidemiology and Dynamics"
