@@ -7,7 +7,7 @@ author_profile: true
 
 **Where and when could outbreaks emerge? Who is most likely to be affected? Which interventions should be prioritised?**
 
-Our research aims to generate quantitative evidence to anticipate and respond to emerging and re-emerging infectious disease outbreaks. We focus on climate-sensitive arboviral diseases, and combine epidemiological, serological, and clinical data with statistical inference, spatial analysis, and mathematical modelling.
+Our research focuses on **climate-sensitive arboviral disease dynamics** and the decisions needed to anticipate and respond to outbreaks. We combine epidemiological, serological, and clinical data with statistical inference, spatial analysis, and mathematical modelling to understand transmission, quantify burden, and evaluate prevention and response strategies.
 
 <figure style="margin: 1.75rem 0 2rem; max-width: 100%;">
   <a href="{{ '/images/research_vision_framework.png' | relative_url }}"
@@ -21,7 +21,7 @@ Our research aims to generate quantitative evidence to anticipate and respond to
       loading="lazy">
   </a>
   <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
-    A framework linking outbreak dynamics, disease burden, and vaccination decisions.
+    A framework connecting outbreak dynamics and disease burden with prevention decisions. Vaccination is an established application within our broader medical-countermeasure research agenda.
     Click to enlarge.
   </figcaption>
 </figure>
@@ -30,19 +30,19 @@ Our research aims to generate quantitative evidence to anticipate and respond to
 
 ### 1. Outbreak emergence and transmission dynamics
 
-We investigate how climate, vector suitability, and population immunity influence outbreak timing and geographic spread. By integrating surveillance and serological data with statistical and mathematcial models, we aim to reconstruct transmission dynamics and improve outbreak detection and prediction.
+We investigate how climate, vector suitability, population immunity, and geographic connectivity shape outbreak timing and spread. By integrating surveillance and serological data with statistical and mathematical models, we reconstruct transmission dynamics and develop approaches to improve outbreak detection and prediction.
 
 ### 2. Disease burden and severity
 
-We estimate the burden of infections and their health consequences, including outcomes missed by routine surveillance. 
+We estimate infections and their health consequences, including severe and long-term outcomes that may be missed by routine surveillance. We examine how age and underlying health conditions influence disease severity to help identify populations at greatest risk.
 
-### 3. Vaccination and epidemic preparedness
+### 3. Medical countermeasures and outbreak preparedness
 
-We use mathematical modelling to evaluate vaccination strategies across different populations and settings. Our work assesses vaccine impact, benefit–risk trade-offs, and uncertainty to inform decisions on when, where, and whom to vaccinate.
+We develop mathematical models to evaluate the impact, benefit–risk trade-offs, and deployment of **medical countermeasures**, including vaccines, diagnostics, and therapeutics. Our current research primarily examines vaccination strategies: when, where, and whom to vaccinate under different transmission scenarios and uncertainties. We aim to extend this decision-making framework to other medical countermeasures and to consider how they can complement broader public health interventions, including vector control.
 
 ## Our Approach
 
-Across these priorities, we apply **epidemiological analysis, statistical inference, spatial modelling, and mathematical modelling**. We aim for translation of quantitative evidence into public health decisions.
+Across these themes, we use **epidemiological analysis, statistical inference, spatial analysis, and mathematical modelling**. Our goal is to translate quantitative evidence into practical decisions about surveillance, preparedness, and the use of interventions.
 
 [View publications]({{ '/publications/' | relative_url }}) · [Meet our team]({{ '/team/' | relative_url }})
 
