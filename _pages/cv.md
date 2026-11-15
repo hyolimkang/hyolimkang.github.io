@@ -21,7 +21,7 @@ Sogang University, Seoul, South Korea
 
 ## Positions
 
-**Assistant Professor of Infectious Disease Modelling** (Mar 2026 –)
+**Assistant Professor of Infectious Disease Modelling** (Mar 2026 – current)
 Department of Infectious Disease Epidemiology and Dynamics, Institute of Tropical Medicine, Nagasaki University, Japan
 
 **Research Fellow of Infectious Disease Modelling** (Apr 2024 – Feb 2026)
@@ -43,8 +43,8 @@ Ethiopia Women's Empowerment and Development Project, Holeta, Ejere, Ethiopia
 
 ## Teaching & Capacity Building
 
-- Scientific and Organising Committee Member, Vaccinology Short Course and Symposium, Nagasaki University (2025)
-- Faculty, Vaccinology Course, Nagasaki University (2024–2025)
+- Scientific and Organising Committee Member, Vaccinology Short Course and Symposium, Nagasaki University (2025–current)
+- Faculty, Vaccinology Course, Nagasaki University (2024–current)
 - Faculty, Infectious Disease Epidemiology and Modelling Course, Nagasaki University (2024)
 - Supervised MSc student project: "Vaccine Impact Modelling for Controlling Chikungunya Outbreak in Karnataka, India", LSHTM (2024)
 
