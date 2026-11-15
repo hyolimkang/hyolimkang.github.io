@@ -31,7 +31,7 @@ Our research focuses on **climate-sensitive arboviral disease dynamics** and the
 
 We investigate how climate, vector suitability, population immunity, and geographic connectivity shape outbreak timing and spread. By integrating surveillance and serological data with statistical and mathematical models, we reconstruct transmission dynamics and develop approaches to improve outbreak detection and prediction.
 
-### Disease burden and severity
+### Disease burden
 
 We estimate infections and their health consequences, including severe and long-term outcomes that may be missed by routine surveillance. We examine how age and underlying health conditions influence disease severity to help identify populations at greatest risk.
 
