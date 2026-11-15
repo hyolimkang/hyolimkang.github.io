@@ -15,4 +15,4 @@ To generate scientific evidence on outbreak dynamics, disease burden, and preven
 
 We foster an inclusive and collaborative research environment that empowers scholars from diverse backgrounds and career stages to contribute ideas, engage in open inquiry, and grow into independent researchers.
 
-Our group values **rigorous and reproducible research**, **open and constructive discussion**, and **collaboration**. 
+Our group values rigorous and reproducible research, open and constructive discussion, and collaboration. 
