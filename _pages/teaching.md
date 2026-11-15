@@ -12,7 +12,7 @@ Vaccinology Short Course, Nagasaki University (2024–current)
 
 Infectious Disease Epidemiology and Modelling Short Course, Nagasaki University (2024-current)
 
-Epidemiology and Statistics for Population Health — Nagasaki University (2024-current)
+Epidemiology and Statistics for Population Health, Nagasaki University (2024-current)
 
 
 ### Committees
