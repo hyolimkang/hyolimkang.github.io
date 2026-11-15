@@ -16,33 +16,32 @@ Our research focuses on **climate-sensitive arboviral disease dynamics** and the
      aria-label="Open the research vision framework at full size">
     <img
       src="{{ '/images/research_vision_framework.png' | relative_url }}"
-      alt="Research framework illustrating three research priorities: outbreak dynamics, disease burden and severity, and vaccination and epidemic preparedness."
+      alt="Decision-making framework connecting outbreak dynamics, disease burden, and medical countermeasures."
       style="width: 100%; height: auto; display: block; border-radius: 8px;"
       loading="lazy">
   </a>
   <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
-    A framework connecting outbreak dynamics and disease burden with prevention decisions. Vaccination is an established application within our broader medical-countermeasure research agenda.
-    Click to enlarge.
+    Decision-making framework connecting outbreak dynamics, disease burden, and medical countermeasures.
   </figcaption>
 </figure>
 
 ## Research Themes
 
-### 1. Outbreak emergence and transmission dynamics
+### Outbreak emergence and transmission dynamics
 
 We investigate how climate, vector suitability, population immunity, and geographic connectivity shape outbreak timing and spread. By integrating surveillance and serological data with statistical and mathematical models, we reconstruct transmission dynamics and develop approaches to improve outbreak detection and prediction.
 
-### 2. Disease burden and severity
+### Disease burden and severity
 
 We estimate infections and their health consequences, including severe and long-term outcomes that may be missed by routine surveillance. We examine how age and underlying health conditions influence disease severity to help identify populations at greatest risk.
 
-### 3. Medical countermeasures and outbreak preparedness
+### Medical countermeasures and outbreak preparedness
 
-We develop mathematical models to evaluate the impact, benefit–risk trade-offs, and deployment of **medical countermeasures**, including vaccines, diagnostics, and therapeutics. Our current research primarily examines vaccination strategies: when, where, and whom to vaccinate under different transmission scenarios and uncertainties. We aim to extend this decision-making framework to other medical countermeasures and to consider how they can complement broader public health interventions, including vector control.
+We develop mathematical models to evaluate the impact, benefit–risk trade-offs, and deployment of medical countermeasures, including vaccines, diagnostics, and therapeutics. We examine deployment strategies: when, where, and whom to target under different transmission scenarios and uncertainties.
 
 ## Our Approach
 
-Across these themes, we use **epidemiological analysis, statistical inference, spatial analysis, and mathematical modelling**. Our goal is to translate quantitative evidence into practical decisions about surveillance, preparedness, and the use of interventions.
+Across these themes, we use **epidemiological analysis, statistical inference, spatial analysis, and mathematical modelling**. Our goal is to translate quantitative evidence into public health decisions about surveillance, preparedness, and the use of interventions.
 
 [View publications]({{ '/publications/' | relative_url }}) · [Meet our team]({{ '/team/' | relative_url }})
 
