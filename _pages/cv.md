@@ -12,7 +12,7 @@ London School of Hygiene & Tropical Medicine, London, UK
 *Thesis: Stakeholder engagement and mathematical modelling to inform chikungunya vaccination programmes in endemic and epidemic settings*
 
 **MSc in Health Policy, Planning and Financing** (2019)
-London School of Hygiene & Tropical Medicine, London, UK
+London School of Hygiene & Tropical Medicine, and London School of Economics and Political Science, London, UK
 
 **BA in Economics** (2017)
 Sogang University, Seoul, South Korea
