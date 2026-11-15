@@ -13,6 +13,6 @@ To generate scientific evidence on outbreak dynamics, disease burden, and preven
 
 ## Research Culture
 
-We aim to build an inclusive, collaborative, and supportive research environment where people from different backgrounds and career stages can contribute ideas, ask questions, and develop as independent researchers.
+We foster an inclusive and collaborative research environment that empowers scholars from diverse backgrounds and career stages to contribute ideas, engage in open inquiry, and grow into independent researchers.
 
 Our group values **rigorous and reproducible research**, **open and constructive discussion**, and **collaboration**. 
