@@ -21,7 +21,7 @@ Our research focuses on **climate-sensitive arboviral disease dynamics** and the
       loading="lazy">
   </a>
   <figcaption style="margin-top: .6rem; color: #66788a; font-size: .82rem; line-height: 1.5;">
-    Decision-making framework connecting outbreak dynamics, disease burden, and medical countermeasures.
+    Decision-making framework connecting outbreak dynamics, disease burden, and medical countermeasures for epidemic preparedness and response
   </figcaption>
 </figure>
 
