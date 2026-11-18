@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Vision
-To advance equitable epidemic preparedness.
+To advance equitable epidemic preparedness and response.
 
 ## Mission
 To generate scientific evidence on outbreak dynamics, disease burden, and prevention strategies to inform public health decisions on neglected and emerging infectious diseases.
